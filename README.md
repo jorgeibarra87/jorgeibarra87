@@ -1,6 +1,6 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="200" />
     <h1>### Hi there 👋, I am Jorge Ibarra!</h1>
+    <img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="150" />   
 </div>
 <br>
 <div id="about" align="center">
@@ -8,22 +8,22 @@
 
 
 
-    - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+    - 🤔  Exploring new technologies and developing software solutions and quick hacks.
 
-    - 🎓 &nbsp; Systems Engineer.
+    - 🎓  Systems Engineer.
 
-    - 🌱 &nbsp; Learning about Development of software.
+    - 🌱  Learning about Development of software.
 
-    - ✍️ &nbsp; I like web and mobile development as hobbies.
+    - ✍️  I like web and mobile development as hobbies.
 </div>
 <br>
 <div id="tech" align="center">
     <h3>🛠 Tech Stack</h3>
 
 
-    - 💻 &nbsp; Java | Kotlin | MySQL
+    - 💻  Java | Kotlin | MySQL
 
-    - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+    - 🌐  HTML | CSS | JavaScript | Bootstrap | ReactJS
 </div>
 <br>
 <div id="stats" align="center">
