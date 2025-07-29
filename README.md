@@ -21,9 +21,9 @@
     <h3>🛠 Tech Stack</h3>
 
 
-    - 💻  Java | Kotlin | MySQL
+    - 💻  Java | Kotlin | ReactJS | Talwind
 
-    - 🌐  HTML | CSS | JavaScript | Bootstrap | ReactJS
+    - 🌐  HTML | CSS | JavaScript | Bootstrap |
 </div>
 <hr>
 <div id="stats" align="center">
